@@ -2,7 +2,7 @@
 
 I am a passionate Tech and Literature Geek, driven by a curiosity for technology and a love for philosophy. My journey involves delving into the world of computer science, exploring new ideas, and trying my best to share my insights with the community.
 
-![CavemanKT's Stats](https://github-readme-stats.vercel.app/api?username=CavemanKT&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![CavemanKT's Stats](https://github-readme-stats.vercel.app/api?username=CavemanKT&theme=react-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 - 🔭 I'm currently working at Aloft Tech Limited as Full Stack Developer.
@@ -11,7 +11,7 @@ I am a passionate Tech and Literature Geek, driven by a curiosity for technology
 - I hope I have one too.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,nextjs,python,fastapi,flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,nextjs,python,fastapi,flask,mongodb,postgresql,mysql,redis)](https://skillicons.dev)
 - the ins and outs of React and Redux for dynamic front-end experiences.
 - React Router for seamless page transitions.
 - Styling with Tailwind CSS to create modern and responsive user interfaces.
