@@ -11,7 +11,7 @@ I am a passionate Tech and Literature Geek, driven by a curiosity for technology
 - I hope I have one too.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,nextjs,python,fastapi,flask)](https://skillicons.dev)
 - the ins and outs of React and Redux for dynamic front-end experiences.
 - React Router for seamless page transitions.
 - Styling with Tailwind CSS to create modern and responsive user interfaces.
