@@ -5,7 +5,7 @@ I am a passionate Tech and Literature Geek, driven by a curiosity for technology
 ![CavemanKT's Stats](https://github-readme-stats.vercel.app/api?username=CavemanKT&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
-- 🔭 I'm currently working at Aloft Tech Limited as Full Stack Developer.
+- 🔭 I'm currently a full-stack developer.
 
 ## My Articles
 - I hope I have one too.
@@ -19,10 +19,10 @@ I am a passionate Tech and Literature Geek, driven by a curiosity for technology
 - PostgreSQL, MySql, MongoDB for efficient and scalable database management.
   
 ## 🌱 Currently Exploring
-- 🚀 Learning Vue, HBuilderX, Math, Java, C#, Swift, Reverse Engineer.
+- 🚀 Learning Math, Java, Swift, Reverse Engineer.
 
  ## 🏆 Achievements
-- 🌟 I am still alive and found a job in IT.
+- 🌟 I am still alive.
 
 ## 📬 Get in Touch
 
